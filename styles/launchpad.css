@@ -46,12 +46,25 @@
 
 .ui-template {
     text-align: center;
+    margin-top: 158px;
+
 }
 
 .dark-title {
     font-family: "Raleway", sans-serif;
     font-size: 65px;
     font-weight: bold;
+
 }
 
-.focus {}
+.focus {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    padding: 12px 36px;
+    border: none;
+
+
+}
