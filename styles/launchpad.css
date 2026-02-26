@@ -1,0 +1,53 @@
+/* navbar styles */
+.nav-section {
+    background: url("../Assets/Hero-bg.png");
+    max-width: 1440px;
+    height: 698px;
+    margin: 0 auto;
+}
+
+.inter-font {
+    font-family: "Inter", sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    margin: 50px 0px 50px 150px;
+
+
+
+}
+
+.raleway {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    width: 132px;
+    height: 48px;
+    font-weight: bold;
+    color: white;
+    margin: 52px 150px 52px 909px;
+    border-radius: 10px;
+    padding: 12px 36px;
+    text-align: center;
+    border: none;
+
+}
+
+.nav-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-color {
+    color: #4E47FF;
+}
+
+.bg-color {
+    background-color: #4E47FF;
+}
+
+.ui-template {
+    text-align: center;
+}
+
+.dark-title {}
+
+.focus {}
