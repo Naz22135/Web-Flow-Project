@@ -78,6 +78,57 @@
 
 .flow-img img {
     border-radius: 48px;
+    width: 400px;
+    height: 328px;
     margin: 116px 160px 116px 220px;
+
+}
+
+/* joined styles */
+.join-user {
+    background-color: rgba(11, 3, 247, 0.1);
+    border-radius: 24px;
+    max-width: 1140px;
+    height: 306px;
+    margin: 0 auto;
+    margin-top: 116px;
+    margin-bottom: 137px;
+    border: none;
+}
+
+.join-title {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    padding-top: 50px;
+
+}
+
+.amount-users {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 142px 50px 142px;
+
+}
+
+
+
+.amount {
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin: 0;
+
+}
+
+.active {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+    text-align: center;
 
 }
