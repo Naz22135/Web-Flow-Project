@@ -132,3 +132,53 @@
     text-align: center;
 
 }
+
+/* review styles */
+.review-section {
+    max-width: 1140px;
+    height: 342px;
+    margin: 0 auto;
+}
+
+.review-title {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.review-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.review-card {
+    border: 1px solid hsl(120, 2%, 90%);
+    background-color: white;
+    width: 360px;
+    height: 240px;
+    border-radius: 14px;
+    padding: 24px;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.reviewer-bio {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+
+}
+
+.reviewer-img {
+    border-radius: 50%;
+}
