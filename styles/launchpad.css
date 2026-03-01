@@ -215,3 +215,39 @@ button:hover {
     margin: 0 auto;
     border-radius: 48px;
 }
+
+/* touch styles */
+.touch-section {
+    max-width: 1140px;
+    height: 631px;
+    margin-top: 92px;
+    margin-bottom: 0;
+    margin: 0 auto;
+}
+
+.touch-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lets-get {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 97px;
+    text-align: center;
+    margin-right: 233px;
+}
+
+.touch-form {
+    padding-top: 71px;
+    padding-bottom: 71px;
+}
+
+.get {
+    font-family: "Raleway", sans-serif;
+    border: none;
+    font-size: 20px;
+    width: 497px;
+    height: 62px;
+}
